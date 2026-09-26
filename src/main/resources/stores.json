@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Grand Central Supermarket",
+    "latitude": 40.9923307,
+    "longitude": 29.1244229
+  },
+  {
+    "name": "Bayside Market Express",
+    "latitude": 40.986106,
+    "longitude": 29.1161293
+  },
+  {
+    "name": "West Mall Hyperstore",
+    "latitude": 41.0066851,
+    "longitude": 28.6552262
+  },
+  {
+    "name": "Uptown Fresh Grocery",
+    "latitude": 41.055783,
+    "longitude": 29.0210292
+  },
+  {
+    "name": "Coastal City Store",
+    "latitude": 40.9632463,
+    "longitude": 29.0630908
+  }
+]
